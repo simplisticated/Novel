@@ -96,6 +96,8 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = "Classes/**/*.h"
 
+  s.swift_version = "4.0"
+  
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
